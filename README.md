@@ -3,7 +3,7 @@
 ####                                 Uri Online Judge Exercises / Solution in Java
 - Localizados na pasta src;
 
-- Necessária nome da classe em Java ser Main ao submeter uma resposta.
+- Necessária nome da <b>classe</b> em Java ser <b>Main</b> ao submeter uma resposta.
 
 https://www.urionlinejudge.com
 
