@@ -1,9 +1,9 @@
 # Uri Online Judge - Exercícios Resolvidos
 ## Alguma das minhas soluções de prática aos exercícios propostos pelo site.
 ####                                 Uri Online Judge Exercises / Solution in Java
-- Localizados na pasta src;
+- Localizados em src;
 
-- Necessária nome da <b>classe</b> em Java ser <b>Main</b> ao submeter uma resposta.
+- Necessário nome da <b>classe</b> em Java ser <b>Main</b> ao submeter uma resposta.
 
 https://www.urionlinejudge.com
 
