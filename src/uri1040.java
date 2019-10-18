@@ -7,8 +7,7 @@ public class uri1040 {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 
-		float N1, N2, N3, N4, N5, media;
-		float mediaFinal;
+		float N1, N2, N3, N4, N5, media, mediaFinal;
 
 		N1 = sc.nextFloat();
 		N2 = sc.nextFloat();
