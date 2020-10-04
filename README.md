@@ -1,5 +1,5 @@
 # Uri Online Judge - Exercícios Resolvidos
-## Alguma soluções de prática aos problemas/questões iniciais.
+## Algumas soluções de prática aos problemas/questões iniciais.
 ####                                 Uri Online Judge Exercises / Solution in Java
 - Localizados em src;
 
